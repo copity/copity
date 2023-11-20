@@ -1,6 +1,22 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://github.com/copity/copity/compare/v0.0.1...v0.0.2)
+
+### 🩹 Fixes
+
+- Npm publish access public ([d16a6e2](https://github.com/copity/copity/commit/d16a6e2))
+
+### 📖 Documentation
+
+- Description & back links ([1d3923a](https://github.com/copity/copity/commit/1d3923a))
+
+### ❤️ Contributors
+
+- Hywax <a.hywax@gmail.com>
+
 ## v0.0.1
 
 
