@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.3
+
+[compare changes](https://github.com/copity/copity/compare/v0.0.2...v0.0.3)
+
+### 🏡 Chore
+
+- Add `tailwindcss` & `color-mode` ([1f87a5a](https://github.com/copity/copity/commit/1f87a5a))
+- Add `@nuxt/content` ([4c9e463](https://github.com/copity/copity/commit/4c9e463))
+
+### ❤️ Contributors
+
+- Hywax <a.hywax@gmail.com>
+
 ## v0.0.2
 
 [compare changes](https://github.com/copity/copity/compare/v0.0.1...v0.0.2)
