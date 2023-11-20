@@ -1,14 +1,17 @@
 {
-  "name": "nuxt-app",
+  "name": "@copity/copity",
   "type": "module",
-  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "copity/copity",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "lint": "eslint . --fix",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "release": "pnpm run build && changelogen --release && git push --follow-tags && pnpm publish"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.0.0",
