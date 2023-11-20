@@ -8,5 +8,8 @@ export default antfu({
   ],
   rules: {
     'antfu/consistent-list-newline': 'off',
+    'vue/block-order': ['error', {
+      order: ['template', 'script', 'style'],
+    }],
   },
 })
