@@ -2,8 +2,17 @@
   "name": "@copity/copity",
   "type": "module",
   "version": "0.0.1",
+  "description": "The road to the world of your documentation",
   "license": "MIT",
-  "repository": "copity/copity",
+  "homepage": "https://github.com/copity/copity#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copity/copity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/copity/copity/issues"
+  },
+  "main": "eslint.config.js",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
