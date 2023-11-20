@@ -20,7 +20,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "release": "pnpm run build && changelogen --release && git push --follow-tags && pnpm publish"
+    "release": "pnpm run build && changelogen --release && git push --follow-tags && pnpm publish --access public"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.0.0",
