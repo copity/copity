@@ -23,6 +23,7 @@
     "release": "pnpm run build && changelogen --release && git push --follow-tags && pnpm publish --access public"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.16",
     "@nuxt/content": "^2.9.0"
   },
   "devDependencies": {
